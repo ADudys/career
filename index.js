@@ -22,6 +22,7 @@ const employee = {
     },
   },
 };
+console.log(employee)
 
 function getEmploeeInfo(key) {
   const personalKeys = Object.keys(employee.personalInfo);
